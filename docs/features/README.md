@@ -9,6 +9,7 @@ icon: star
 
 
 * Universal Layout: Preview/Printview/PDF - they look just the same.
+* Dynamic page breaks: Business-letter, Invoice or whatever - generated fully automated.
 * Full, modern CSS support: Flexbox, W3C standards - all printed with headless Chromium.
 * [Individual page size per Print Format](betterprint-specific-jinja-examples.md#set-individual-page-size): Independent PDF size :smile:
 * Preview & support for any page size (even A0 or larger page size is supported)
