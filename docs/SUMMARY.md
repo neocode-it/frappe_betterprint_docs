@@ -5,8 +5,13 @@
 * [Installation & Setup](installation-and-setup.md)
 * [Features](features.md)
 * [Quick-start Guide](quick-start-guide.md)
+* [Minimal working example Printformat](minimal-working-example-printformat.md)
 
 ## Usage Reference
 
 * [Dynamic Header & Footer](usage-reference/dynamic-header-and-footer.md)
 * [Betterprint-specific Jinja examples](usage-reference/betterprint-specific-jinja-examples.md)
+
+## Helpful guide
+
+* [Page 1](helpful-guide/page-1.md)
