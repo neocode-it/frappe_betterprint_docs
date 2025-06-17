@@ -24,8 +24,8 @@ Warning: This project is still in development so expect breaking changes!
 [about-frappe-betterprint.md](about-frappe-betterprint.md)
 {% endcontent-ref %}
 
-{% content-ref url="features/" %}
-[features](features/)
+{% content-ref url="features.md" %}
+[features.md](features.md)
 {% endcontent-ref %}
 
 {% content-ref url="installation-and-setup.md" %}

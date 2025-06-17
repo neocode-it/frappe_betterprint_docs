@@ -28,10 +28,10 @@ Make sure to check both of these aswell as wkhtmltopdf as pdf gernatetor (import
 Frappe Betterprint is based on Jinja Print formats with modern CSS support and dynamic header and footer.
 
 {% hint style="warning" %}
-Frappes repeated header & footer won't work in Frappe Betterprint. In order to add header & footer, please refere to [dynamic header & footer article](features/dynamic-header-and-footer.md) in the docs
+Frappes repeated header & footer won't work in Frappe Betterprint. In order to add header  & footer, please refere to [dynamic header & footer article](usage-reference/dynamic-header-and-footer.md) in the docs
 {% endhint %}
 
 In order to add Contents to your Print Format, here are some helpful links to get started:
 
-* [Betterprint-specific Jinja examples (Footer/Header...)](features/betterprint-specific-jinja-examples.md)
+* [Betterprint-specific Jinja examples (Footer/Header...)](usage-reference/betterprint-specific-jinja-examples.md)
 * [Frappe Documentation of Jinja Print Formats](https://docs.frappe.io/erpnext/user/manual/en/records-print-format#html-print-format)

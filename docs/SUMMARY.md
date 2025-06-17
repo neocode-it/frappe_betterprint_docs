@@ -3,7 +3,11 @@
 * [Frappe Betterprint Docs](README.md)
 * [About Frappe Betterprint](about-frappe-betterprint.md)
 * [Installation & Setup](installation-and-setup.md)
+* [Features](features.md)
 * [Quick-start Guide](quick-start-guide.md)
-* [Features](features/README.md)
-  * [Dynamic Header & Footer](features/dynamic-header-and-footer.md)
-  * [Betterprint-specific Jinja examples](features/betterprint-specific-jinja-examples.md)
+* [Minimal working example Printformat](minimal-working-example-printformat.md)
+
+## Usage Reference
+
+* [Dynamic Header & Footer](usage-reference/dynamic-header-and-footer.md)
+* [Betterprint-specific Jinja examples](usage-reference/betterprint-specific-jinja-examples.md)
