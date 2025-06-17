@@ -63,6 +63,6 @@ Footer is a reserved keyword and will automatically add it's content to the main
 Page Numbers are a reserved Source keyword and will be set automatically. In order to add page numbers, you'll just need to add this into your header:
 
 ```html
-<paginate-target data-key="pageNumber"></paginate-source>
-<paginate-target data-key="totalPages"></paginate-source>
+<paginate-target data-key="pageNumber"></paginate-target>
+<paginate-target data-key="totalPages"></paginate-target>
 ```
