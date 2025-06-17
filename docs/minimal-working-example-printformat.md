@@ -107,3 +107,8 @@ icon: check
 }
 ```
 
+#### Final Result
+
+The final Page layout will look something like this (click to zoom).
+
+<figure><img src=".gitbook/assets/grafik (1).png" alt="" width="245"><figcaption></figcaption></figure>
