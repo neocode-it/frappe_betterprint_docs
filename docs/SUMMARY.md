@@ -11,7 +11,3 @@
 
 * [Dynamic Header & Footer](usage-reference/dynamic-header-and-footer.md)
 * [Betterprint-specific Jinja examples](usage-reference/betterprint-specific-jinja-examples.md)
-
-## Helpful guide
-
-* [Page 1](helpful-guide/page-1.md)
